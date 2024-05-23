@@ -1,2 +1,0 @@
-# MyDuolingo
-# MyDuolingo
