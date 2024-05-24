@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410309282327",
+    "project_id": "yyduolingo2",
+    "storage_bucket": "yyduolingo2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410309282327:android:e0bae5ae6eb81d11e3aa52",
+        "android_client_info": {
+          "package_name": "com.umut.myduolingo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_OohEtd0igJD-js3JD_K-kr8O5Sh6V1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
